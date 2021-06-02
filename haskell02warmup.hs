@@ -19,3 +19,4 @@ doutor nome = (take 2 nome) == "Dr"
    
 adulto :: Int -> Bool
 adulto idade = idade >= 18
+
